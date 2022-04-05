@@ -73,7 +73,7 @@ sellixmain: [
   {
     name: 'Fullz',
     image: './images/Fullz.png',
-    price: '0.50',
+    price: '0.20',
     id: '624bf777363ea',
     des: 'ssn fullname addy',
     colour: 'product--red'
@@ -82,7 +82,7 @@ sellixmain: [
   {
     name: 'NordVPN Logs',
     image: './images/nord.png',
-    price: '0.50',
+    price: '0.15',
     id: '5478697654rgtyrh',
     des: 'Nord Vpn Logs',
     colour: 'product--blue'
